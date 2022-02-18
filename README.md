@@ -11,7 +11,7 @@
    - Intro to R manual < Comprehensive version
    - Intro to R manual < Short version by Troy Brauer
    - Google's R Style Guide
-   - PDF of intro lecture to R created by Ann Hess
+   - PDF of intro lecture to R created by Ann Hess, Colorado State University, Assistant Professor
 
  Created by A.J. Brown
  17 Feb 2022
