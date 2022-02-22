@@ -11,7 +11,7 @@
 
 # R is a command line programming language. It is useful for data analysis, and
 # data visualization.  It also can do many other functions just like other
-# coding lanuges like python, Java, C++, etc.
+# coding languages like python, Java, C++, etc.
 
 # Windows in Rstudio:
 # top left = text editor
