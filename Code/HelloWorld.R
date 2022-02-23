@@ -37,6 +37,7 @@ x # notice how this variable is saved in our environment (top left window)
 y = x+2
 y
 z = "Greetings" # notice how " and ' are interchangeable for character types
+z
 
 ## Data Types
 ?typeof() #Look, here's our first function! It uses inputs from us to do stuff

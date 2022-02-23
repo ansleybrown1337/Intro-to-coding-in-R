@@ -31,7 +31,7 @@ summary(mtcars)
 ## Next line gives an error. We need to specify the data!
 mean(no3)
 ## This is the correct format of this function:
-mean(water.data$no3)
+mean(water.data$no3, na.rm=T)
 ## "with" function allows for assuming a data set with a function
 with(mean(no3), data = water.data)
 attach(water.data)
@@ -48,7 +48,7 @@ water.data$total.N
 ## using base-R: http://www.sthda.com/english/wiki/r-base-graphs
 ### scatter
 plot(x=water.data$tp, y=water.data$tss)
-plot(tss~tp, data=water.data)
+plot(tss~tp, data=water.data, pch=16)
 ### histogram
 hist(water.data$no3)
 ### boxplot
