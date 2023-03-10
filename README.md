@@ -6,6 +6,8 @@
  on your computer. Bonus points if you look at any of the helpful material in 
  the “Links” folder!
 
+ The webinar recording can be found [here](https://colostate-my.sharepoint.com/:v:/g/personal/ansleybr_colostate_edu/EQ_hqXX3FYxMooQQYrEjJcQB5l01zKyyCXuctgV2THUV2w?e=4DXw8p)
+
  Contents:
  - Code folder: example R code to use for learning
  - Data folder: example data to practice importing into R
