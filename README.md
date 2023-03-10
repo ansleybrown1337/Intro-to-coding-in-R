@@ -2,6 +2,10 @@
  Short crashcourse to get started with coding in R using R studio as an IDE and
  sample water quality data.
 
+ Prior to starting this training, please first [install R](https://www.r-project.org/) and also [R Studio](https://posit.co/download/rstudio-desktop/#download)
+ on your computer. Bonus points if you look at any of the helpful material in 
+ the “Links” folder!
+
  Contents:
  - Code folder: example R code to use for learning
  - Data folder: example data to practice importing into R
